@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="dazza5000/android_device_lenovo_TB8504" path="device/lenovo/TB8504" remote="github" />
-  <project name="dazza5000/android_kernel_lenovo_TB8504" path="kernel/lenovo/msm8953" remote="github" />
+  <project name="dazza5000/android_kernel_lenovo_TB8504" path="kernel/lenovo/msm8937" remote="github" />
   <project name="dazza5000/android_vendor_lenovo_TB8504" path="vendor/lenovo/TB8504" remote="github" />
 </manifest>
 
